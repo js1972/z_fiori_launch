@@ -13,7 +13,7 @@ When a link is tapped/clicked, the relevant Fiori application will open to the d
 6. Edit the index.html file to alter the workflow Task Id's to match those you have configured in SWFVISU. Also alter the Fiori app url's to match the apps you use
 7. Activate the BSP application
 
-Alternatively you can download the BSP application and upload it into your SAP system using SAPlink. Then perform the edits as described above.
+Alternatively you can download the [BSP application](https://github.com/js1972/z_fiori_launch/releases/tag/0.1) and upload it into your SAP system using SAPlink. Then perform the edits as described above.
 
 ## Notes ##
 All other files except index.html can be ignored... They are just from me playing around with atom.io's jsFormat plugin.
