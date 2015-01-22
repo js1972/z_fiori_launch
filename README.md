@@ -1,7 +1,7 @@
 # z_fiori_launch
 A Fiori App Launcher for Workflow Extended Notifications
 
-This handy html file (index.html) will enable your users to direclty launch Fiori approval apps from a workflow notification email!
+This handy html file (index.html) will enable your users to directly launch Fiori approval apps from a workflow notification email!
 When a link is tapped/clicked, the relevant Fiori application will open to the detail screen for the relevant work item; all within the Fiori Launchpad.
 
 ## Configuration ##
