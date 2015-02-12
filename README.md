@@ -17,3 +17,4 @@ Alternatively you can download the [BSP application](https://github.com/js1972/z
 
 ## Notes ##
 All other files except index.html can be ignored... They are just from me playing around with atom.io's jsFormat plugin.
+If your Fiori architecture is one with a SAP Gateway Hub, then this application must be served from the SAP Gateway Hub so that it is accessible to incoming connections.
