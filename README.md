@@ -16,5 +16,5 @@ When a link is tapped/clicked, the relevant Fiori application will open to the d
 Alternatively you can download the [BSP application](https://github.com/js1972/z_fiori_launch/releases/tag/0.1) and upload it into your SAP system using SAPlink. Then perform the edits as described above.
 
 ## Notes ##
-All other files except index.html can be ignored... They are just from me playing around with atom.io's jsFormat plugin.
-If your Fiori architecture is one with a SAP Gateway Hub, then this application must be served from the SAP Gateway Hub so that it is accessible to incoming connections.
+- All other files except index.html can be ignored... They are just from me playing around with atom.io's jsFormat plugin.
+- If your Fiori architecture is one with a SAP Gateway Hub, then this application must be served from the SAP Gateway Hub so that it is accessible to incoming connections.
